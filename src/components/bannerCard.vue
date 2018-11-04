@@ -171,6 +171,7 @@ export default {
   }
   .minShopClass>span{
   font-size: 10px;
+    color: #959ca2;
   }
   .minShopClass i{
     display: inline-block;
